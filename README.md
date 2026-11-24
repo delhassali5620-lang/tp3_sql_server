@@ -1,3 +1,5 @@
+# partie_cours
+
 # étape 01: connexion_base
 <img width="555" height="501" alt="01_connexion_base(1)" src="https://github.com/user-attachments/assets/ead975a8-a08c-474d-9b94-e5a2b90e1ef9" />
 <img width="278" height="475" alt="01_connexion_base(2)" src="https://github.com/user-attachments/assets/8d011691-226a-434b-9627-ba2edce1d8e3" />
@@ -28,6 +30,31 @@
 
 # étape 10: tri_pagination_agregation
 <img width="374" height="457" alt="10_tri_pagination_agregations" src="https://github.com/user-attachments/assets/b8528b14-4d83-4fb8-9ea2-81820a389f4d" />
+
+
+# partie_exercices
+
+
+# exercice1:
+<img width="489" height="126" alt="EXERCICE 1" src="https://github.com/user-attachments/assets/2d99e8d2-388e-4755-adc9-28d679783b93" />
+
+# exercice2:
+<img width="515" height="116" alt="exercice 2" src="https://github.com/user-attachments/assets/1c300c6d-d01e-4bc6-ad72-ba22da1a831f" />
+
+# exercice3:
+<img width="563" height="92" alt="exercice 3" src="https://github.com/user-attachments/assets/5b528cb7-27de-4570-ad61-f8ce686ba6ff" />
+
+# exercice4: 
+<img width="496" height="143" alt="exercice 4" src="https://github.com/user-attachments/assets/de19a742-4d2f-4bc5-be62-53e0e01a11a7" />
+
+# exercice5: 
+<img width="779" height="199" alt="exercice 5" src="https://github.com/user-attachments/assets/235551ba-a273-4e8f-a4e0-f9b2f7c65769" />
+
+
+
+
+
+
 
 
 
